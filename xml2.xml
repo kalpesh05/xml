@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<book>
+	<chapters>
+		<title>Chapter 1</title>
+		<title>Chapter 3</title>
+	</chapters>
+	<content>
+		<preface>A book</preface>
+		<chapter>
+			<paragraph>A</paragraph>
+			<paragraph>B</paragraph>
+			<paragraph>F</paragraph>
+		</chapter>
+	</content>
+</book>

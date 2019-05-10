@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<book>
+	<title>The title</title>	<chapters>
+		<title>Chapter 2</title>
+	</chapters>
+	<content>
+		<introduction>A book</introduction>
+		<chapter>
+			<paragraph>D</paragraph>
+		</chapter>
+	</content>
+</book>
